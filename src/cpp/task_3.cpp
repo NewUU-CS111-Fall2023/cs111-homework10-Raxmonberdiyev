@@ -8,6 +8,7 @@
 #include <string>
 using namespace std;
 
+
 string turingCompare(string tape) {
     int state = 0;
     int i = 0;
